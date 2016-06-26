@@ -1,0 +1,14 @@
+{
+    "name": "habitat-tutorial",
+    "version": "0.0.0",
+    "description": "Learning Habitat",
+    "author": "Ilkka Laukkanen <ilkka@ilkka.io>",
+    "license": "MIT",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "nconf": "^0.8.4"
+    }
+}
